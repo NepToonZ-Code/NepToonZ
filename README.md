@@ -9,7 +9,7 @@
 - ⚡ Fun fact **I suck at DS&A because I still haven't learnt it.**
 
 <h3 align="left">Connect with me:</h3>
-<a> I'll add something here later </a>
+<a> I'll add something here later (maybe) </a>
 <p align="left">
 </p>
 
