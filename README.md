@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NepToonZ 🧪</h1>
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/486/154/c06.gif" alt="Maxwell cat" width="1000" height="250" align="center">
-<h3 align="center">A frontend developer and C# programmer, Lua scripter | Beginner</h3>
+<h3 align="center">A frontend developer and C# programmer, Lua scripter, Python | Beginner</h3>
 
 - 🔭 I’m currently working on **absolutely nothing and procrastinating**
 
