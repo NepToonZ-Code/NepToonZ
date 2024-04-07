@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **absolutely nothing and procrastinating**
 
-- 🌱 I’m currently learning **C# fluency**
+- 🌱 I’m currently learning **absolutely nothing again**
 
 - ⚡ Fun fact **I suck at DS&A because I still haven't learnt it.**
 
