@@ -2,7 +2,7 @@
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/486/154/c06.gif" alt="Maxwell cat" width="1000" height="250" align="center">
 <h3 align="center">A frontend developer and C# programmer, Lua scripter, Python | Beginner</h3>
 
-- 🔭 I’m currently working on **absolutely nothing and procrastinating**
+- 🔭 I’m currently just having fun with **Tkinter**
 
 - 🌱 I’m currently learning **absolutely nothing again**
 
