@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **absolutely nothing again**
 
-- ⚡ Fun fact **I suck at DS&A because I still haven't learnt it.**
+- ⚡ Fun fact **I'm thinking about learning DS&A**
 
 <h3 align="left">Connect with me:</h3>
 <a> I'll add something here later (maybe) </a>
