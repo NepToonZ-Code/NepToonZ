@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/564x/63/18/27/631827d281fa62f42f99d2c962108427.jpg" alt="Maxwell cat" width="1000" height="250" align="center">
 <h3 align="center">A frontend developer and C# programmer, Lua scripter, Python | Amateur, Self-taught</h3>
 
-<p> I do some programming/coding/scripting from time to time and I'd like to share some projects here. 
+<p> I do some programming/coding/scripting from time to time and I'd like to share some projects here. <br>
   Of course, they suck, but you can give them a try in case you're bored.  </p>
 
 <h3 align="left">Languages and Tools I use:</h3>
