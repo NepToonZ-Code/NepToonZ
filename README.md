@@ -1,5 +1,5 @@
 <h1 align="center"> Nay-nay , I'm NepToonZ 🐒 </h1>
-<img src="https://i.pinimg.com/564x/63/18/27/631827d281fa62f42f99d2c962108427.jpg" alt="Maxwell cat" width="1000" height="250" align="center">
+<img src="https://i.pinimg.com/236x/f4/2a/ac/f42aacb427b51b0a85b5e5efe2bbd748.jpg" alt="Maxwell cat" width="1000" height="250" align="center">
 <h3 align="center">A frontend developer and C# programmer, Lua scripter, Python | Amateur, Self-taught</h3>
 
 <p> I do some programming/coding/scripting from time to time and I'd like to share some projects here. <br>
